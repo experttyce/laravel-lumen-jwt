@@ -1,5 +1,5 @@
 # laravel-lumen-jwt
-Proyecto backend en Laravel Lumen con JWT Token, base de datos Postgres
+Proyecto backend en Laravel Lumen con JWT Token y base de datos
 # Instalacion
 Despues de clonar el proyecto ejecutar dentro del directorio
 ```
