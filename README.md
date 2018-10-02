@@ -5,6 +5,8 @@ Despues de clonar el proyecto ejecutar dentro del directorio
 ```
 composer install
 ```
+Copiar el archivo .env.example a .env
+
 
 # EndPoints
 ```PHP
